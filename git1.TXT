@@ -1,1 +1,8 @@
 file1
+void()
+{
+declaration;
+initialization;
+scanning and printing;
+logic execution;
+}

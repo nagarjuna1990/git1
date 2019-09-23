@@ -1,1 +1,9 @@
 file2
+void setup()
+{
+global declaration
+}
+void loop()
+{
+loop iteration
+}
