@@ -1,8 +1,11 @@
+
 class  ()
 
 {
 
    main []  nagarjuna
-           
+class() nag
 
-}
+
+     this is nagarjuna
+
