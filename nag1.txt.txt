@@ -1,4 +1,5 @@
 
+
 class  ()
 
 {
@@ -8,4 +9,10 @@ class() nag
 
 
      this is nagarjuna
+class()
+{
+
+     main ()
+
+}
 
